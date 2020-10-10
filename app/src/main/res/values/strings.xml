@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">冬宇</string>
+    <string name="multi">多选</string>
+    <string name="checkedAll">全选</string>
+    <string name="search">搜索</string>
+    <string name="uncheckedAll">全不选</string>
+    <string name="find">发现</string>
+</resources>
